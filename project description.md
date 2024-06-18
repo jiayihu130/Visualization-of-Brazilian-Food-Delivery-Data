@@ -20,55 +20,7 @@ Data
 The project uses data from the u_food_marketing.csv file, which includes diverse marketing and sales details essential for our analysis.
 
 Data description 
-AcceptedCmp1: 1 if the customer accepted the offer in the 1st campaign, 0 otherwise.
-
-AcceptedCmp2: 1 if the customer accepted the offer in the 2nd campaign, 0 otherwise.
-
-AcceptedCmp3: 1 if the customer accepted the offer in the 3rd campaign, 0 otherwise.
-
-AcceptedCmp4: 1 if the customer accepted the offer in the 4th campaign, 0 otherwise.
-
-AcceptedCmp5: 1 if the customer accepted the offer in the 5th campaign, 0 otherwise.
-
-Response (target): 1 if the customer accepted the offer in the last campaign, 0 otherwise.
-
-Complain: 1 if the customer complained in the last 2 years.
-
-DtCustomer: Date of customer’s enrollment with the company.
-
-Education: Customer's level of education.
-
-Marital: Customer's marital status.
-
-Kidhome: Number of small children in the customer’s household.
-
-Teenhome: Number of teenagers in the customer’s household.
-
-Income: Customer’s yearly household income.
-
-MntFishProducts: Amount spent on fish products in the last 2 years.
-
-MntMeatProducts: Amount spent on meat products in the last 2 years.
-
-MntFruits: Amount spent on fruits in the last 2 years.
-
-MntSweetProducts: Amount spent on sweet products in the last 2 years.
-
-MntWines: Amount spent on wines in the last 2 years.
-
-MntGoldProds: Amount spent on gold products in the last 2 years.
-
-NumDealsPurchases: Number of purchases made with discount.
-
-NumCatalogPurchases: Number of purchases made using a catalogue.
-
-NumStorePurchases: Number of purchases made directly in stores.
-
-NumWebPurchases: Number of purchases made through the company's website.
-
-NumWebVisitsMonth: Number of visits to the company’s website in the last month.
-
-Recency: Number of days since the last purchase.
+![Marketing_Dictionary_Table](https://github.com/jiayihu130/E-commerce-Data-Analysis-Project-/assets/163877307/2a5fe24b-379a-4e23-81a2-d36c15a48d38)
 
 
 Key Features
