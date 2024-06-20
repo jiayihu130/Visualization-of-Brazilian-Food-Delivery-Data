@@ -9,13 +9,13 @@ Statistical Analysis: Employ statistical methods to understand correlations and 
 
 Data Visualization: Use Seaborn and Matplotlib to create insightful visualizations. These visualizations aim to clarify complex relationships and trends, making the data more accessible and understandable.
 
-# 🎯 Key Features
 Correlation Analysis: Explore how various customer attributes such as age, spending, and purchase type relate to marketing campaign success.
 
 Demographic Insights: Analyze spending by age group and marital status to tailor future marketing strategies.
 
 Purchasing Patterns: Investigate the types of purchases (web, catalog, store) that correlate with higher total spending and campaign acceptance.
 Data
+# 🎯 Key Features
 
 The project uses data from the u_food_marketing.csv file, which includes diverse marketing and sales details essential for our analysis.
 
