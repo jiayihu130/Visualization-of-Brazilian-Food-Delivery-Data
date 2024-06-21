@@ -1,4 +1,4 @@
-U-Food Marketing Analysis Project
+
 # 📋Overview 
 This project is dedicated to analyzing marketing data from U-Food, a pseudonym company involved in the food industry. Using Python libraries such as Pandas, Seaborn, and Matplotlib, the analysis delves into customer behavior, spending patterns, and campaign responsiveness across different demographic segments, giving insightful reports to improve marketing activities.
 # 🎯 Key Features
