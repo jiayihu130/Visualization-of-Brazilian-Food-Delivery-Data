@@ -16,6 +16,7 @@ From the following chart, we can conclude:
 The core audience for accepting campaigns right now is between 31-70 years old. Those aged 23-30 and 71 and up accept at higher rates.
 
 ![1](https://github.com/jiayihu130/retail-analytics-using-Python/assets/163877307/d25f244b-d364-4650-a26e-db972388f811)
+
 ![2](https://github.com/jiayihu130/retail-analytics-using-Python/assets/163877307/f2436be4-e9a7-4157-ac0a-d809573ce7fb)
 
 Looking at the relationship between having children and participating in campaigns: We can find that fewer kids = more likely to accept campaigns, and spend less money.
@@ -23,14 +24,17 @@ Looking at the relationship between having children and participating in campaig
 ![3](https://github.com/jiayihu130/retail-analytics-using-Python/assets/163877307/1518c7ff-ee98-44e2-a69b-8fe22247a5e0)
 
 The level of education does not have a significant impact on participation in campaigns.
+
 ![4](https://github.com/jiayihu130/retail-analytics-using-Python/assets/163877307/cc1c7e2b-db6d-4b82-b318-bf63fcc32f2b)
 
 we analyzed marital status and found that married and single individuals are spending more money than widowed and divorced individuals. We should focus on this segment.
+
 ![5](https://github.com/jiayihu130/retail-analytics-using-Python/assets/163877307/c5
 
 After analyzed customer portrait we can take a look at purchasing channels:
 
 Regarding people's purchasing channels, we can focus more on web purchases and store purchases.
+
 ![6](https://github.com/jiayihu130/retail-analytics-using-Python/assets/163877307/67d2d9f1-9556-475d-bcb4-cd510730d8ee)
 09084a-e669-4e70-b59b-6aaf8933131a)
  
