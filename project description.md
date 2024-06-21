@@ -8,6 +8,7 @@ Data description
 ![Marketing_Dictionary_Table](https://github.com/jiayihu130/E-commerce-Data-Analysis-Project-/assets/163877307/2a5fe24b-379a-4e23-81a2-d36c15a48d38)
 #     Question
 How to Improve Purchases at Campaigns? 📢🛒
+
 Which Customer Segment Should We Target? 👥
 # 💡 Analysis Highlights 
 
