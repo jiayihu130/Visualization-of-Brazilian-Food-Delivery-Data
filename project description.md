@@ -6,7 +6,7 @@ This project is dedicated to analyzing marketing data from U-Food, a pseudonym c
 The project uses data from the u_food_marketing.csv file, which includes diverse marketing and sales details essential for our analysis.
 Data description 
 ![Marketing_Dictionary_Table](https://github.com/jiayihu130/E-commerce-Data-Analysis-Project-/assets/163877307/2a5fe24b-379a-4e23-81a2-d36c15a48d38)
-#     Question
+# ❓ Question
 How to Improve Purchases at Campaigns? 📢🛒
 
 Which Customer Segment Should We Target? 👥
@@ -50,7 +50,7 @@ From this, we can infer future directions: boost the higher percentage of catalo
 ![8](https://github.com/jiayihu130/retail-analytics-using-Python/assets/163877307/552fe1d1-6672-473f-871f-e1d2e6f34971)
 ![9](https://github.com/jiayihu130/retail-analytics-using-Python/assets/163877307/3bf42a8e-7132-4073-9166-cecf978547ba)
 
-# Conclusions from Data Exploration 🔍
+# 🔍 Conclusions from Data Exploration 
 
 1. **Age **:
    Group 31-70
@@ -73,7 +73,7 @@ From this, we can infer future directions: boost the higher percentage of catalo
    - 💑 Married, single, and Together individuals spend more money.
    - 👩‍🦳 Widowed and divorced individuals spend less.
 
-# Marketing Strategy 🚀
+# 🚀 Marketing Strategy 
 
 ## Maintaining Sales Growth 📈
 
