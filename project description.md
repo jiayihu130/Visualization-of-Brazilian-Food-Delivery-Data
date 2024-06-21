@@ -39,13 +39,13 @@ After analyzed customer portrait we can take a look at purchasing channels:
 Regarding people's purchasing channels, we can focus more on web purchases and store purchases.
 
 ![6](https://github.com/jiayihu130/retail-analytics-using-Python/assets/163877307/67d2d9f1-9556-475d-bcb4-cd510730d8ee)
-09084a-e669-4e70-b59b-6aaf8933131a)
- 
+
 For the number of purchases made by people who accepted the campaigns,after performing regression analysis on the above three methods, we found:
 
 All have a positive correlation: the more money spent, the more store purchases made.
 
 From this, we can infer future directions: boost the higher percentage of catalog customers, or focus on in-store/web because they have more traffic.
+
 ![7](https://github.com/jiayihu130/retail-analytics-using-Python/assets/163877307/82ef5ada-9bbd-4aa8-b167-cab2b12b7e4d)
 ![8](https://github.com/jiayihu130/retail-analytics-using-Python/assets/163877307/552fe1d1-6672-473f-871f-e1d2e6f34971)
 ![9](https://github.com/jiayihu130/retail-analytics-using-Python/assets/163877307/3bf42a8e-7132-4073-9166-cecf978547ba)
