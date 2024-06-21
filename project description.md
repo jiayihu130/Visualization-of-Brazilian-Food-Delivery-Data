@@ -47,7 +47,7 @@ From this, we can infer future directions: boost the higher percentage of catalo
 ![8](https://github.com/jiayihu130/retail-analytics-using-Python/assets/163877307/552fe1d1-6672-473f-871f-e1d2e6f34971)
 ![9](https://github.com/jiayihu130/retail-analytics-using-Python/assets/163877307/3bf42a8e-7132-4073-9166-cecf978547ba)
 
-## Conclusions from Data Exploration 🔍
+# Conclusions from Data Exploration 🔍
 
 1. **Age **:
    Group 31-70
@@ -70,14 +70,14 @@ From this, we can infer future directions: boost the higher percentage of catalo
    - 💑 Married, single, and Together individuals spend more money.
    - 👩‍🦳 Widowed and divorced individuals spend less.
 
-## Marketing Strategy 🚀
+# Marketing Strategy 🚀
 
-### Maintaining Sales Growth 📈
+## Maintaining Sales Growth 📈
 
 - Focus on middle-aged people, high earners, with no kids.
 - Target different platforms with the split mentioned above (40% catalog, 30% store, 30% web).
 
-### Attracting New Users 👥
+## Attracting New Users 👥
 
 - Focus on individuals aged 21-30 and those 70 and up, as they accept campaigns at a higher rate.
  
