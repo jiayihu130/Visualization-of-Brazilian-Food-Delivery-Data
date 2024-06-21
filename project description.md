@@ -29,7 +29,7 @@ The level of education does not have a significant impact on participation in ca
 
 we analyzed marital status and found that married and single individuals are spending more money than widowed and divorced individuals. We should focus on this segment.
 
-![5](https://github.com/jiayihu130/retail-analytics-using-Python/assets/163877307/c5
+![5](https://github.com/jiayihu130/retail-analytics-using-Python/assets/163877307/7a9bc2bc-5abf-4261-b6a7-e28ac1ca53f8)
 
 After analyzed customer portrait we can take a look at purchasing channels:
 
