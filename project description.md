@@ -52,28 +52,28 @@ From this, we can infer future directions: boost the higher percentage of catalo
 
 # 🔍 Conclusions from Data Exploration 
 
-1. **Age **:
-2. 
+1. Age :
+   
    Group 31-70
    
    - 💵 Spending more money.
    - 📉 Accepting fewer campaigns.
-   - 
+    
    Group 23-30,71-85
 
    - 💵 Spending less money.
 
-4. **Catalogue Users**:
+2. **Catalogue Users**:
    - 📬 More likely to accept campaigns.
    - 🛍️ Spend more in person.
    - **Recommended split**: 40% catalog, 30% store, 30% web.
 
-5. **Focus on People with Fewer or No Kids** 👶❌
+3. **Focus on People with Fewer or No Kids** 👶❌
 
-6. **Education**:
+4. **Education**:
    - 🎓 No significant impact; don't target any specific group for campaigns.
 
-7. **Marital Status**:
+5. **Marital Status**:
    - 💑 Married, single, and Together individuals spend more money.
    - 👩‍🦳 Widowed and divorced individuals spend less.
 
